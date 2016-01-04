@@ -1,0 +1,43 @@
+*{
+    outline: 1px red dotted;
+}
+.container{
+    width:  970px;
+    min-height: 500px;
+}
+
+.error{
+    color: red;
+}
+.winning{
+    color: green;
+}
+.register , .login{
+    display: inline-block;
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+.login{
+    margin-top: 80px;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.register input, .login input{
+    margin: 10px;
+    height:20px;
+    display: inline-block;
+    text-align: right;
+}
+.register{
+    width: 300px;
+    min-height: 300px;
+    margin-top: 50px;
+    margin-left: 45px;
+}
+.login{
+    width: 300px;
+    min-height: 200px;
+}
+.registe
